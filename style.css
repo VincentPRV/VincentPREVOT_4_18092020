@@ -840,6 +840,9 @@ h4 {
     margin-left: -15px;
 }
 
+.bloc-7 h1{
+    color: red;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
