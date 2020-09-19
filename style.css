@@ -790,6 +790,8 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    display: block;
+    text-align: center;
 }
 
 .ltc-white:hover {
@@ -828,6 +830,14 @@ h4 {
 
 .citation{
     font-style: italic;
+}
+
+.row ul
+{
+    list-style-type: none;
+}
+.row li{
+    margin-left: -15px;
 }
 
 @media (max-width: 1024px) {
