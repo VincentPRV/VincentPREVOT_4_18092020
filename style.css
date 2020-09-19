@@ -660,6 +660,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: black;
 }
 
 .hero-bloc-text-sub {
@@ -840,9 +841,7 @@ h4 {
     margin-left: -15px;
 }
 
-.bloc-7 h1{
-    color: red;
-}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -1001,6 +1000,7 @@ h4 {
     .bloc-lg {
         padding: 40px 0;
     }
+   
     .bloc-sm,
     .bloc-md {
         padding-left: 0;
